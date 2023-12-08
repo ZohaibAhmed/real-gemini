@@ -1,0 +1,8 @@
+python-dotenv
+openai
+opencv-python
+whisper-mic
+resemble
+PyAudio
+numpy
+requests
