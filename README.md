@@ -20,8 +20,8 @@
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone [your-repo-url]
-   cd [your-repo-directory]
+   git clone git@github.com:ZohaibAhmed/real-gemini.git
+   cd real-gemini
    ```
 
 2. **Install Dependencies**
