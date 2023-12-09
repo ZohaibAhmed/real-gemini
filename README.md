@@ -7,6 +7,11 @@
   This project leverages the power of AI to answer questions based on visual inputs -- like Google's Gemini demo. It integrates GPT-4 Vision for image understanding, Whisper for voice recognition, and Resemble AI for voice synthesis, creating a comprehensive system capable of interpreting visual data and responding verbally.
 </p>
 
+
+https://github.com/ZohaibAhmed/real-gemini/assets/660224/9ab3bd22-4c26-4947-9646-d2085b22725f
+
+
+
 ## Features
 - **Visual Question Answering**: Uses GPT-4 Vision to interpret images from a camera feed and answer questions related to the visual content.
 - **Voice Recognition**: Employs Whisper for accurate speech-to-text conversion, allowing users to ask questions verbally.
